@@ -18,5 +18,10 @@ I am eager to learn on the job. I am actively seeking entry-level roles, interns
 
 **📫 How to reach me:**
 
-*   [LinkedIn]: https://www.linkedin.com/in/chukwuebuka-anthony-03a919165/
-*   [X (Twitter)]: https://x.com/ijiibeh
+* [LinkedIn](https://www.linkedin.com/in/chukwuebuka-anthony-03a919165/)
+* [X (Twitter)](https://x.com/ijiibeh)
+
+## 🚀 Featured Projects
+
+### 🌐 Networking & Infrastructure
+**[Cisco Packet Tracer Labs](https://github.com/jiibe/Cisco-Packet-Tracer-Labs)** - Designed a secure, VLAN-segmented 5-department network with Router-on-a-Stick, DHCP, DNS, and ACLs.
